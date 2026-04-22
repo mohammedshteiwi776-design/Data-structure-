@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//محمد شتيوي 
 struct Device
 {
     int id;
